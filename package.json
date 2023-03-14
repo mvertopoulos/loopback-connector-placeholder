@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mvertopoulos@gmail.com",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvertopoulos/loopback-connector-placeholder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mvertopoulos/loopback-connector-placeholder/issues"
+  },
+  "homepage": "https://github.com/mvertopoulos/loopback-connector-placeholder#readme"
 }

@@ -1,0 +1,11 @@
+{
+  "name": "loopback-connector-placeholder",
+  "version": "1.0.0",
+  "description": "Placeholder loopback connector for not failing upon application initialization",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mvertopoulos@gmail.com",
+  "license": "ISC"
+}
